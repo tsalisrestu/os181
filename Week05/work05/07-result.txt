@@ -1,0 +1,16 @@
+MSIZE1 (10k) MSIZE2 (20k) MSIZE3 (50k) MSIZE4 (100k) MSIZE5 (1M) MSIZE6 (10M) MSIZE1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+KiB Mem:   8197060 total,   790280 used,  7406780 free,   208128 buffers
+KiB Swap:   683004 total,        0 used,   683004 free.   476096 cached Mem
+
+  PID  PPID %MEM    VIRT    RES    SHR   SWAP   CODE    DATA   USED
+10213 10144  0.0    4172    644    568      0      4     320    644
+10213 10144  0.0    4172    644    568      0      4     320    644
+10213 10144  0.0    4172    644    568      0      4     320    644
+10213 10144  0.0    4496    644    568      0      4     644    644
+10213 10144  0.0    5200   1168   1072      0      4    1348   1168
+10213 10144  0.2   20560  17532   1072      0      4   16708  17532
+10213 10144  0.0  266320   1168   1072      0      4  262468   1168
+10213 10144  0.0    4172   1168   1072      0      4     320   1168
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
